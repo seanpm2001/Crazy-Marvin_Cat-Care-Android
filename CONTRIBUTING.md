@@ -2,7 +2,7 @@
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-The following is a set of guidelines for contributing to the [Cat Care](https://poopjournal.rocks/CatCare/) [Android](https://www.android.com/) app, which are hosted on [GitHub](https://github.com/Crazy-Marvin/CatCare/).
+The following is a set of guidelines for contributing to the [Cat Care](https://poopjournal.rocks/Cat-Care-Android/) [Android](https://www.android.com/) app, which are hosted on [GitHub](https://github.com/Crazy-Marvin/CatCare/).
 These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## What should I know before I get started?
